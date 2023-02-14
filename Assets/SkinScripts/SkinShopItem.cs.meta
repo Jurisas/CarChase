@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f3af304b8167f3c4a99bf8cad6f5ea9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skinManager: {fileID: 11400000, guid: 914a6a8fa7a3bb847b8384bd51516fec, type: 2}
+  - buyButton: {instanceID: 0}
+  - costText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
